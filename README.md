@@ -68,7 +68,7 @@ npm start
  	<tr>
 		<td align="center">
 			<a href="https://github.com/evasaxenaapp">
-				<img src="https://avatars2.githubusercontent.com/u/26687933?s=200&v=4](https://i.ibb.co/CMY66Cx/323700069-177282064913212-7803930868246212720-n.jpg)" alt=""/>
+				<img src="https://i.ibb.co/CMY66Cx/323700069-177282064913212-7803930868246212720-n.jpg" alt=""/>
 			</a>
 		</td>
 	</tr>
