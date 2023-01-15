@@ -21,13 +21,13 @@ Linkpe is a Node.js based API to generate shareable UPI Payment links, just fill
 1. Download directly from github (and unpack) or Clone the repository
 
 ```bash
-git clone https://github.com/ptprashanttripathi/linkpe.git
+git clone https://github.com/evasaxenaapp/upisystem.git
 ```
 
 2. Change the working directory
 
 ```bash
-cd linkpe
+cd upisystem
 ```
 
 3. Install dependencies
