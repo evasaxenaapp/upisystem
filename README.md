@@ -60,7 +60,7 @@ npm start
 <table>
 	<tr>
 		<th align="center">
-				<a href="https://github.com/evasaxena">
+				<a href="https://github.com/evasaxenaapp">
 					<sub><b>Eva Saxena</b></sub>
 				</a>
 		</th>
@@ -68,17 +68,12 @@ npm start
  	<tr>
 		<td align="center">
 			<a href="https://github.com/evasaxenaapp">
-				<img src="https://avatars2.githubusercontent.com/u/26687933?s=200&v=4" width="100px;" alt=""/>
+				<img src="[https://avatars2.githubusercontent.com/u/26687933?s=200&v=4](https://i.ibb.co/CMY66Cx/323700069-177282064913212-7803930868246212720-n.jpg)" width="100px;" alt=""/>
 			</a>
 		</td>
 	</tr>
 </table>
 
-## Questions and Feedback
-
-**Please contact me using one of the following:**
-
-[![]([https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white](https://cdn.inflact.com/media/323700069_177282064913212_7803930868246212720_n.jpg?url=https%3A%2F%2Fscontent.cdninstagram.com%2Fv%2Ft51.2885-19%2F323700069_177282064913212_7803930868246212720_n.jpg%3Fstp%3Ddst-jpg_s320x320%26_nc_ht%3Dscontent-zrh1-1.cdninstagram.com%26_nc_cat%3D104%26_nc_ohc%3Dhl8D6P1-dYMAX8VQkeY%26edm%3DAOQ1c0wBAAAA%26ccb%3D7-5%26oh%3D00_AfCmSN_hk2TOrYl3QWU9jiF_e5qxjwlqv5ihRDCVCjfF5A%26oe%3D63C98324%26_nc_sid%3D8fd12b&time=1673802000&key=74639c59865ea8adcbe9baf88f2abcc8))](https://www.instagram.com/evasaxena/)
 
 
 <p align="center">  
