@@ -77,5 +77,5 @@ npm start
 
 
 <p align="center">  
-<hr>Developed with ❤️ in India 🇮🇳 
+<hr>Developed with ❤️
 </p>
