@@ -21,7 +21,7 @@ Linkpe is a Node.js based API to generate shareable UPI Payment links, just fill
 1. Download directly from github (and unpack) or Clone the repository
 
 ```bash
-git clone https://github.com/evasaxenaapp/upisystem.git
+git clone https://github.com/teamvek/upisystem.git
 ```
 
 2. Change the working directory
@@ -60,14 +60,14 @@ npm start
 <table>
 	<tr>
 		<th align="center">
-				<a href="https://github.com/evasaxenaapp">
+				<a href="https://github.com/teamvek">
 					<sub><b>Eva Saxena / Vishal Thakur / Khush Jadav</b></sub>
 				</a>
 		</th>
   	</tr>
  	<tr>
 		<td align="center">
-			<a href="https://github.com/evasaxenaapp">
+			<a href="https://github.com/teamvek">
 <!-- 				<img src="https://i.ibb.co/CMY66Cx/323700069-177282064913212-7803930868246212720-n.jpg" alt=""/> -->
 			</a>
 		</td>
