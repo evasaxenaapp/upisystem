@@ -61,7 +61,7 @@ npm start
 	<tr>
 		<th align="center">
 				<a href="https://github.com/evasaxenaapp">
-					<sub><b>Eva Saxena / Vishal Thakur / Khush Yadav</b></sub>
+					<sub><b>Eva Saxena / Vishal Thakur / Khush Jadav</b></sub>
 				</a>
 		</th>
   	</tr>
